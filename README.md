@@ -60,14 +60,14 @@
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀  My Highlighted Projects
 - 🔌 **USB Hardware Tester** — Portable Python tool to diagnose laptop hardware  
   `git clone https://github.com/Dinushka110797/USB_Hardware_Tester.git`
 - 🪟 **Windows Automation Script** — Autounattend XML for hands-free Windows install (Legacy/MBR)
 
 ---
 
-## 📊 Animated Stats
+## 📊 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinushka110797&theme=radical&hide_border=true" alt="streak"/>
 </p>
