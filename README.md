@@ -13,7 +13,7 @@
 </p>
 
 <!-- Glitchy Neon Title -->
-<h1 align="center">👾 Cyber Ops // QA Automator // Dev Troubleshooter ⚡</h1>
+<h1 align="center">👾 Tech Support // QA Automator // Dev Troubleshooter ⚡</h1>
 
 <!-- Badges -->
 <p align="center">
