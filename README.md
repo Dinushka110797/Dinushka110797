@@ -28,10 +28,21 @@
 </p>
 
 ## 🧪 About Me
-- ⚙️ I build **reliable, automated test systems** that catch bugs before users do.  
-- 🧰 Love **Python, Selenium, Postman, Linux** and tooling that makes engineers faster.  
-- 🎯 Goal: Become a **full-stack problem solver** across QA × Dev × Infra.  
-- 📫 Contact: **lakshandinushka929@gmail.com**
+I’m a **hands-on Tech Support Engineer, QA Automator, and Python developer** who loves breaking systems — and fixing them smarter.
+
+I specialize in:
+- 🔍 **Diagnosing real-world OS & hardware issues** (Windows & Linux)
+- 🤖 **Automation-first thinking** — if it can be automated, I’ll automate it
+- 🧪 **Quality Assurance & Test Automation** using Python, Selenium, and structured testing
+- 🛠️ **Escalated tech support tooling** that turns chaos into clear reports
+
+I learn by **building**, not memorizing — every project I create solves an actual problem faced by users, technicians, or support teams.
+
+🎯 Long-term goal: become a **full-stack problem solver** across  
+**QA × Development × Systems × Automation** — the engineer people trust when things really break.
+
+I don’t just test software.  
+I test **systems, workflows, and assumptions**.
 
 ---
 
@@ -60,7 +71,29 @@
 
 ---
 
-## 🚀  My Highlighted Projects
+## 🚀 My Highlighted Projects
+
+- 🩺 **AutoDoctor – Smart Tech Support Assistant**  
+  A Python-based diagnostic assistant for **Windows & Linux** that helps users and L1/L2 engineers quickly identify common system issues.
+  
+  **Features:**
+  - WiFi, Bluetooth, Audio, Camera, Mic diagnostics
+  - RAM, Disk, GPU, Battery, USB health checks
+  - System Summary Dashboard
+  - Auto-generated escalation reports
+  - EXE version for non-technical users
+  
+  🔧 Built with: Python, PowerShell, Bash, Rich (UI)  
+  🎯 Use case: IT Support, Helpdesk, Field Technicians  
+  👉 *Designed from real-world support experience*
+
+- 🔌 **USB Hardware Tester**  
+  Portable Python tool to diagnose USB ports and connected hardware on laptops.  
+  `git clone https://github.com/Dinushka110797/USB_Hardware_Tester.git`
+
+- 🪟 **Windows Automation Script**  
+  Autounattend XML for hands-free Windows installation (Legacy / MBR environments).
+
 - 🔌 **USB Hardware Tester** — Portable Python tool to diagnose laptop hardware  
   `git clone https://github.com/Dinushka110797/USB_Hardware_Tester.git`
 - 🪟 **Windows Automation Script** — Autounattend XML for hands-free Windows install (Legacy/MBR)
@@ -92,8 +125,7 @@
 ## 🕶️ 
 ```text
 ██████╗ ██╗███╗   ██╗██╗   ██╗███████╗██╗  ██╗██╗  ██╗ █████╗ 
-██╔══██╗██║████╗  ██║██║   ██║██╔════╝██║  ██║██║  ██║██╔══██╗
+██╔══██╗██║████╗  ██║██║   ██║██╔════╝██║  ██║██║  █
 ██████╔╝██║██╔██╗ ██║██║   ██║███████╗███████║███████║███████║
    ═══╝ ██║██║╚██╗██║██║   ██║╚════██║██╔══██║██╔══██║██╔══██║
-        ██║██║ ╚████║╚██████╔╝███████║██║  ██║██║  ██║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+        ██║██║ ╚████║╚██████╔╝███████
